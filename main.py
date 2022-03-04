@@ -1,8 +1,6 @@
 import numpy as np
 
 
-from tensorflow.keras.models import Sequential
-
 class PlayerAgent:
 
     def __init__(self, game) -> None:
